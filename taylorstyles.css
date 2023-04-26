@@ -1,0 +1,99 @@
+p{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.taylorswift{
+    color: green;
+    text-decoration: underline;
+}
+
+.fearless{
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+.speaknow {
+    color: purple;
+    text-decoration: underline;
+}
+
+.red {
+    color: darkred;
+    text-decoration: underline;
+}
+
+.bestalbumever {
+    color: rgb(2, 167, 169);
+    text-decoration: underline;
+}
+
+.reputation {
+    color: black;
+    text-decoration: underline;
+}
+
+.lover {
+    color: palevioletred;
+    text-decoration: underline;
+}
+
+.folklore {
+    color: gray;
+    text-decoration: underline;
+}
+
+.evermore {
+    color:rgb(189, 123, 0);
+    text-decoration: underline;
+}
+
+.midnights {
+    color: midnightblue;
+    text-decoration: underline;
+}
+
+.body{
+    text-align: center;
+    border: 2px solid black;
+    margin: 0.5cm;
+    background-color: whitesmoke;
+}
+
+.albums{
+    text-align: left;
+}
+
+.tableau{
+    size: 10cm;
+    margin: 4cm;
+    margin-bottom: 10cm;
+}
+
+.subtitle{
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.list{
+    background-color: whitesmoke;
+    margin-left: 2cm;
+}
+
+.dearjohn{
+    background-color: lavender;
+}
+
+.graph{
+    background-color: whitesmoke;
+}
+
+.top{
+    background-color: rgb(229, 248, 255);
+}
